@@ -1,1 +1,2 @@
-# Development-of-Artificial-Interlligence-Device-that-Recognizes-Voice-Informs-Weather-Information-
+## 데모영상
+https://www.youtube.com/shorts/TmYLkmHS5tI
