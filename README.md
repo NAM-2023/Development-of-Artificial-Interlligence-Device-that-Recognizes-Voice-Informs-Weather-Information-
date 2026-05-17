@@ -1,0 +1,1 @@
+# Development-of-Artificial-Interlligence-Device-that-Recognizes-Voice-Informs-Weather-Information-
